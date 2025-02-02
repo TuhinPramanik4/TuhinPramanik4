@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tuhin
 - 👀 Interested In Web2 & Web3
-- 🌱 Learning Contaniers 
 - 💞️Interested In hackathons And Competitive Programming
 - ⚡ Fun fact: Living a binary Life
 -  # Technologies I Use:
