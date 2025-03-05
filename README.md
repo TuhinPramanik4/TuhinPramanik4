@@ -16,7 +16,7 @@
 - # Microservices :
 - Kafka
 - # Web frontend :
-- HTML , CSS and Tailwind CSS      
+- HTML , CSS , React and Tailwind CSS      
 <!---
 TuhinPramanik4/TuhinPramanik4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
